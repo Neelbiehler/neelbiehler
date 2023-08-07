@@ -34,13 +34,10 @@
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img align="left" alt="Express" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+</a>
+
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img
@@ -94,14 +91,9 @@
       height="40"
     />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img align="left" alt="Next.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
+</a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -165,12 +157,7 @@
       height="30"
     />
   </a>
-  <a href="https://dynamics.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/305981/dynamics365.svg"
-      alt="dynamics365"
-      width="30"
-      height="30"
-    />
-  </a>
+ <a href="https://dynamics.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img align="left" alt="Dynamics365" width="30px" src="https://www.svgrepo.com/show/305981/dynamics365.svg" />
+</a>
 </p>
